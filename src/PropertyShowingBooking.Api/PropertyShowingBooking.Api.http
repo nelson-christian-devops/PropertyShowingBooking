@@ -1,0 +1,6 @@
+@PropertyShowingBooking.Api_HostAddress = http://localhost:5030
+
+GET {{PropertyShowingBooking.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+namespace PropertyShowingBooking.Application.Interfaces;
+
+public interface IApplicationAssemblyMarker;
